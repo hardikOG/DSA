@@ -1,0 +1,47 @@
+AGRESSIVE COWS:
+
+class Solution:
+    def aggressiveCows(self, stalls, k):
+        # code here
+
+        def feasible(stalls, k, guess):
+            cows = 1
+            pos = stalls[0]
+
+            for i in range(1, len(stalls)):
+                
+
+                """if dist < guess:
+                    continue
+
+                cows += 1
+                pos = stalls[i]
+
+                if cows >= k:
+                    return True
+                else:
+                    return False"""
+                dist = stalls[i] - pos
+                if dist>= guess:
+                    cows+=1
+                    pos = stalls[i]
+                if cows>=k:
+                    return True
+            return False
+
+        stalls.sort()      #maybe unsorted stalls will be given
+
+        low = 1
+        high = stalls[-1] - stalls[0]
+        res = -1
+
+        while low <= high:
+            guess = (low + high) // 2
+
+            if feasible(stalls, k, guess):
+                res = guess
+                low = guess + 1
+            else:
+                high = guess - 1
+
+        return res
