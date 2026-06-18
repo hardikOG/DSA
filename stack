@@ -38,3 +38,23 @@ class Solution(object):
             else:
                 stack2.append(ch)  #append normal chars
         return stack1 == stack2
+
+
+LC 1598
+
+class Solution(object):
+    def minOperations(self, logs):
+        """
+        :type logs: List[str]
+        :rtype: int
+        """
+        current_depth = 0 #to keep depth of current folder from main folder
+        for op in logs:
+            if op == "../":
+                current_depth = max(0, current_depth -1)   #it cannot go lesser than 0, as 0 is the main folder
+                # move to the parent folder
+            elif op == "./":
+                continue  #in same
+            else:
+                current_depth +=1 #move into chiild, inc depth
+        return current_depth 
