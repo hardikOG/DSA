@@ -1,0 +1,15 @@
+LC 1047:
+class Solution(object):
+    def removeDuplicates(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        stack = []
+        
+        for ch in s:
+            if stack and stack[-1]==ch: #check top element, and also first check if stack is non empty. if top element is equal to ch, then pop 
+                stack.pop()
+            else:
+                stack.append(ch)
+        return ''.join(stack)   #return joined chars of stack
