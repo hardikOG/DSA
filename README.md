@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hardikOG/DSA/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hardikOG/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hardikOG/DSA/tree/master/0088-merge-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
@@ -42,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hardikOG/DSA/tree/master/0125-valid-palindrome) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
