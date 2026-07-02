@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/hardikOG/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/hardikOG/DSA/tree/master/0125-valid-palindrome) |
 ## Queue
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/hardikOG/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/hardikOG/DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
