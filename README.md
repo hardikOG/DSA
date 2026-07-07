@@ -94,13 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikOG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikOG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikOG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
