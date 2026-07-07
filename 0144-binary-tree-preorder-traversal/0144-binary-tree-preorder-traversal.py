@@ -11,13 +11,8 @@ class Solution(object):
         :rtype: List[int]
         """
         out = []
-
-        def dfs(node):
-            if not node:
-                return
-            out.append(node.val)
-            dfs(node.left)
-            dfs(node.right)
-
-        dfs(root)
+        if not root: return []
+        out.append(root.val)   # ROOT first
+        out+=self.preorderTraversal(root.left)
+        out+=self.preorderTraversal(root.right)
         return out
