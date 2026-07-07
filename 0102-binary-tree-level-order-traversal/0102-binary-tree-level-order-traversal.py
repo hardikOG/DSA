@@ -16,23 +16,18 @@ class Solution(object):
         if not root:
             return []
 
-        queue = deque([])
+        q = deque([root])
         res = []
-        queue.append(root)
+        
 
-        while len(queue) != 0:
+        while q:
             level = []
-            size = len(queue)
-
-            for _ in range(size):
-                e = queue.popleft()
-                level.append(e.val)
-
-                if e.left:
-                    queue.append(e.left)
-                if e.right:
-                    queue.append(e.right)
-
+            for _ in range(len(q)):
+                n = q.popleft()
+                level.append(n.val)
+                if n.left:
+                    q.append(n.left)
+                if n.right:
+                    q.append(n.right)
             res.append(level)
-
         return res
