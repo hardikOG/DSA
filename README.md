@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/hardikOG/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/hardikOG/DSA/tree/master/0621-task-scheduler) |
+| [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardikOG/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hardikOG/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hardikOG/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hardikOG/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/hardikOG/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Two Pointers
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hardikOG/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hardikOG/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hardikOG/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hardikOG/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/hardikOG/DSA/tree/master/0621-task-scheduler) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
