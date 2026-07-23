@@ -10,14 +10,13 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        self.maxSum = float("-inf")
-        def maxGain(node):
+        maxi = [float('-inf')]
+        def dfs(node):
             if not node:
                 return 0
-            left = max(0, maxGain(node.left))
-            right = max(0, maxGain(node.right))
-            self.maxSum = max(self.maxSum, node.val + left + right)
-            return node.val + max(left, right)
-        maxGain(root)
-        return self.maxSum
-        
+            l = max(0, dfs(node.left))
+            r = max(0, dfs(node.right))
+            maxi[0] = max(maxi[0], l + r + node.val)
+            return node.val + max(l,r)
+        dfs(root)
+        return maxi[0]
