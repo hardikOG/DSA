@@ -10,14 +10,17 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        best = [0]
-        def depth(node):
-            
+        self.dia = 0
+
+        def height(node):
             if not node:
                 return 0
-            L = depth(node.left)
-            R = depth(node.right)
-            best[0] = max(best[0], L+R)
-            return 1+ max(L,R)
-        depth(root)
-        return best[0]
+            left = height(node.left)
+            right = height(node.right)
+
+            self.dia = max(self.dia,left+right)
+
+            return 1 + max(left,right)
+
+        height(root)
+        return self.dia
