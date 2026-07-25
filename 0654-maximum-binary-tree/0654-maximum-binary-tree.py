@@ -10,12 +10,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: Optional[TreeNode]
         """
-        stack = []
+        st = []
         for num in nums:
             node = TreeNode(num)
-            while stack and num>stack[-1].val:
-                node.left = stack.pop()
-            if stack:
-                stack[-1].right = node
-            stack.append(node)
-        return stack[0]        
+            while st and st[-1].val<num:
+                node.left = st.pop()
+            if st:
+                st[-1].right = node
+            st.append(node)
+        return st[0]
+
+
+
+        
+            
