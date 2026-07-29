@@ -5,5 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        m = max(nums)
-        return k*m + (k* (k-1))//2
+        a=0
+        b=max(nums)
+        for i in range(k):
+            a+=b
+            b+=1    
+        return a
