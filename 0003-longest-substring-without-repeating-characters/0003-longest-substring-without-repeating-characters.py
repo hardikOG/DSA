@@ -4,13 +4,12 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        count = {}
-        l=0
+        seen = {}
+        left = 0
         best = 0
-        for r,c in enumerate(s):
-            count[c] = count.get(c, 0)+1
-            while count[c]>1:  #window invalid condition (when count>1)
-                count[s[l]] -=1   
-                l+=1
-            best = max(best, r-l+1)
+        for right, ch in enumerate(s):
+            if ch in seen and seen[ch]>=left:
+                left = seen[ch]+1
+            seen[ch] = right
+            best = max(best, right- left +1)
         return best
