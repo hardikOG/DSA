@@ -7,7 +7,7 @@ class Solution(object):
         """
         n = len(coins)
         dp = [[0] * (amount + 1) for _ in range(n+1)]
-        for i in range(n+1):
+        for i in range(n+1): #base case, to make amount 0
             dp[i][0] = 1
         for i in range(1, n+1):
             for j in range(1, amount+1):
