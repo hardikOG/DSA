@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardikOG/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/hardikOG/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/hardikOG/DSA/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/hardikOG/DSA/tree/master/1143-longest-common-subsequence) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hardikOG/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/hardikOG/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/hardikOG/DSA/tree/master/0567-permutation-in-string) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hardikOG/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikOG/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hardikOG/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -209,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/hardikOG/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/hardikOG/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -221,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikOG/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
