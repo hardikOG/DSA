@@ -4,10 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        freq = {}
-        for ch in s:
-            freq[ch] = freq.get(ch, 0) +1
-        for i, ch in enumerate(s):
-            if freq[ch]==1:
+        count = Counter(s)
+        for i in range(len(s)):
+            if count[s[i]]==1:
                 return i
         return -1
