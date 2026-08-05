@@ -1,19 +1,23 @@
 class Solution(object):
     def nextGreaterElement(self, nums1, nums2):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: List[int]
-        """
+        nextGreater = [-1] * 10001
         stack = []
-        nxt = {}
-        for num in nums2:
-            while stack and stack[-1]<num:
-                nxt[stack.pop()] = num
-            stack.append(num)
-        while stack:
-            nxt[stack.pop()] = -1
+
+        for i in range(len(nums2) - 1, -1, -1):
+
+            while stack and stack[-1] <= nums2[i]:
+                stack.pop()
+
+            if stack:
+                nextGreater[nums2[i]] = stack[-1]
+            else:
+                nextGreater[nums2[i]] = -1
+
+            stack.append(nums2[i])
+
         result = []
+
         for num in nums1:
-            result.append(nxt[num])
+            result.append(nextGreater[num])
+
         return result
