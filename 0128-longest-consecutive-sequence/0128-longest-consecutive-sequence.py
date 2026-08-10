@@ -5,13 +5,15 @@ class Solution(object):
         :rtype: int
         """
         
-        seen = set(nums)
-        
-        longest = 0
-        for num in seen:
-            if num-1 not in seen:
-                length = 1
-                while num + length in seen:
+        numset=set(nums)
+        longest=0
+
+        for n in numset:
+            if (n-1) not in numset:
+                length=1
+                while (n+length) in numset:
                     length+=1
-                longest = max(longest, length)
+                longest=max(length,longest)
+                if longest>len(nums)/2:
+                    return longest
         return longest
