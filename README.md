@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hardikOG/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/hardikOG/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/hardikOG/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/hardikOG/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/hardikOG/DSA/tree/master/0496-next-greater-element-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hardikOG/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hardikOG/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/hardikOG/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/hardikOG/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/hardikOG/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikOG/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hardikOG/DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hardikOG/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikOG/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/hardikOG/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikOG/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikOG/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/hardikOG/DSA/tree/master/0496-next-greater-element-i) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikOG/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/hardikOG/DSA/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/hardikOG/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hardikOG/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 ## Binary Search
 |  |
@@ -293,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/hardikOG/DSA/tree/master/0867-transpose-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
