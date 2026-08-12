@@ -1,15 +1,15 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        seen = {}
+        seen = set()
         left = 0
-        best = 0
-        for right, ch in enumerate(s):
-            if ch in seen and seen[ch]>=left:
-                left = seen[ch]+1
-            seen[ch] = right
-            best = max(best, right- left +1)
-        return best
+        length = 0
+
+        for right in range(len(s)):
+            while s[right] in seen:
+                seen.remove(s[left])
+                left += 1
+
+            seen.add(s[right])
+            length = max(length, right - left + 1)
+
+        return length
