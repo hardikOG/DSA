@@ -14,13 +14,13 @@ class Solution(object):
         """
         if not node:
             return None
-        oldToNew = {}
+        OTN = {}
         def dfs(node):
-            if node in oldToNew:
-                return oldToNew[node]
+            if node in OTN:
+                return OTN[node]
             clone = Node(node.val)
-            oldToNew[node] = clone
-            for neighbor in node.neighbors:
-                clone.neighbors.append(dfs(neighbor))
+            OTN[node] = clone
+            for n in node.neighbors:
+                clone.neighbors.append(dfs(n))
             return clone
         return dfs(node)
