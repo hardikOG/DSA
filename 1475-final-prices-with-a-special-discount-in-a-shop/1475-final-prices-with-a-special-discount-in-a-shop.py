@@ -4,11 +4,11 @@ class Solution(object):
         :type prices: List[int]
         :rtype: List[int]
         """
-        stack = []
-        res = prices[:]
-        for i,p in enumerate(prices):
-            while stack and prices[stack[-1]]>=p:
-                val = stack.pop()
-                res[val] = prices[val] - p
-            stack.append(i)
+        res= list(prices)
+        st= []
+        for i in range(len(prices)):
+            while st and prices[i]<=prices[st[-1]]:
+                idx= st.pop()
+                res[idx] -= prices[i]
+            st.append(i)
         return res
