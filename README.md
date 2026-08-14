@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardikOG/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikOG/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/hardikOG/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/hardikOG/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hardikOG/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikOG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hardikOG/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hardikOG/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/hardikOG/DSA/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hardikOG/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/hardikOG/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hardikOG/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/hardikOG/DSA/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hardikOG/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hardikOG/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hardikOG/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
 ## Database
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/hardikOG/DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
