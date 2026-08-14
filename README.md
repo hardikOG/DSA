@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hardikOG/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hardikOG/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikOG/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/hardikOG/DSA/tree/master/0133-clone-graph) |
 | [0219-contains-duplicate-ii](https://github.com/hardikOG/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hardikOG/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hardikOG/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikOG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/hardikOG/DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hardikOG/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hardikOG/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/hardikOG/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hardikOG/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikOG/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/hardikOG/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/hardikOG/DSA/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hardikOG/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hardikOG/DSA/tree/master/0020-valid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/hardikOG/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
