@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/hardikOG/DSA/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/hardikOG/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikOG/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/hardikOG/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
 | [0867-transpose-matrix](https://github.com/hardikOG/DSA/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardikOG/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hardikOG/DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/hardikOG/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardikOG/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/hardikOG/DSA/tree/master/1652-defuse-the-bomb) |
 ## Heap (Priority Queue)
