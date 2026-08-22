@@ -1,21 +1,18 @@
 class Solution(object):
-
     def isPalindrome(self, s):
         """
         :type s: str
         :rtype: bool
         """
-
-        s = s.lower()
-
-        s = ''.join(c for c in s if c.isalnum())
-        if s == "":
-            return True
-        for c in s:
-            if c.isalnum():
-                if s[::-1] == s:
-                    return True
-                else:
-                    return False
-
-        return False
+        l = 0
+        r = len(s)-1
+        while l<r:
+            while l<r and not s[l].isalnum():
+                l+=1
+            while l<r and not s[r].isalnum():
+                r-=1
+            if s[l].lower() != s[r].lower():
+                return False
+            l+=1
+            r-=1
+        return True
