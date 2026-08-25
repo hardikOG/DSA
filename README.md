@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hardikOG/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hardikOG/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hardikOG/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/hardikOG/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/hardikOG/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hardikOG/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/hardikOG/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hardikOG/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hardikOG/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hardikOG/DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/hardikOG/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hardikOG/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/hardikOG/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/hardikOG/DSA/tree/master/0567-permutation-in-string) |
