@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardikOG/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hardikOG/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/hardikOG/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/hardikOG/DSA/tree/master/1652-defuse-the-bomb) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/hardikOG/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hardikOG/DSA/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardikOG/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/hardikOG/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Tree
 |  |
 | ------- |
