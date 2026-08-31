@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikOG/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikOG/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/hardikOG/DSA/tree/master/0654-maximum-binary-tree) |
+| [0724-find-pivot-index](https://github.com/hardikOG/DSA/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/hardikOG/DSA/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikOG/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardikOG/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hardikOG/DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/hardikOG/DSA/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardikOG/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/hardikOG/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Tree
