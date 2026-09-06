@@ -5,12 +5,16 @@ class Solution(object):
         :type s: List[int]
         :rtype: int
         """
-        g.sort()
         s.sort()
-        i, j, count = 0, 0, 0
-        while i < len(g) and j < len(s):
-            if s[j]>=g[i]:
+        g.sort()
+        count = 0
+        i = 0
+        j = 0
+        while i<len(g) and j<len(s):
+            if s[j] >= g[i]:
                 count+=1
                 i+=1
-            j+=1
+                j+=1
+            else:
+                j+=1
         return count
