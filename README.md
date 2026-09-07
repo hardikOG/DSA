@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardikOG/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikOG/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/hardikOG/DSA/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/hardikOG/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hardikOG/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/hardikOG/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hardikOG/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hardikOG/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hardikOG/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/hardikOG/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hardikOG/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hardikOG/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/hardikOG/DSA/tree/master/0455-assign-cookies) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/hardikOG/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikOG/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Ordered Set
 |  |
