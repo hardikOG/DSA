@@ -4,13 +4,16 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        last_seen = {}
         left = 0
-        length = 0
-        seen = set()
+        max_len = 0
         for right in range(len(s)):
-            while s[right] in seen:
-                seen.remove(s[left])
-                left+=1
-            seen.add(s[right])
-            length = max(length, right-left+1)
-        return length
+            ch = s[right]
+            if ch in last_seen and last_seen[ch] >= left:
+                left = last_seen[ch] + 1
+
+            last_seen[ch] = right
+
+            curr_len = right - left + 1
+            max_len = max(max_len, curr_len)
+        return max_len
