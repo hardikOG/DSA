@@ -15,7 +15,7 @@ class Solution(object):
             if pos_window < 0:
                 pos_window = 0
                 left = right + 1
-            elif neg_window > 0:
+            if neg_window > 0:
                 neg_window = 0
                 left = right + 1
             max_sum = max(max_sum, abs(pos_window), abs(neg_window))
