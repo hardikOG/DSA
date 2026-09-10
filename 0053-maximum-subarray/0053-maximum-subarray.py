@@ -4,8 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        best = curr = nums[0]
-        for x in nums[1:]:
-            curr = max(x, curr+x)
-            best = max(best, curr)
-        return best
+        left = 0
+        n = len(nums)
+        max_sum = float('-inf')
+        window_sum = 0
+        for right in range(n):
+            window_sum += nums[right]
+            max_sum = max(max_sum , window_sum)
+            if window_sum < 0:
+                window_sum = 0
+                left = right + 1
+        return max_sum
