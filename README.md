@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/hardikOG/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hardikOG/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3623-count-number-of-trapezoids-i](https://github.com/hardikOG/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hardikOG/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1748-sum-of-unique-elements](https://github.com/hardikOG/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/hardikOG/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [3623-count-number-of-trapezoids-i](https://github.com/hardikOG/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hardikOG/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikOG/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hardikOG/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3623-count-number-of-trapezoids-i](https://github.com/hardikOG/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/hardikOG/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/hardikOG/DSA/tree/master/0455-assign-cookies) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/hardikOG/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
