@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/hardikOG/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hardikOG/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/hardikOG/DSA/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardikOG/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikOG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/hardikOG/DSA/tree/master/0198-house-robber) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hardikOG/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/hardikOG/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikOG/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hardikOG/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/hardikOG/DSA/tree/master/3623-count-number-of-trapezoids-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hardikOG/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
