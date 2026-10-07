@@ -14,3 +14,4 @@ class Solution(object):
                 if j < len(nums):
                     nums[i] = nums[j]
                     nums[j] = 0
+        return nums
