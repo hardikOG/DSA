@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hardikOG/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/hardikOG/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/hardikOG/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2906-construct-product-matrix](https://github.com/hardikOG/DSA/tree/master/2906-construct-product-matrix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hardikOG/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3623-count-number-of-trapezoids-i](https://github.com/hardikOG/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 ## Dynamic Programming
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hardikOG/DSA/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardikOG/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/hardikOG/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2906-construct-product-matrix](https://github.com/hardikOG/DSA/tree/master/2906-construct-product-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/hardikOG/DSA/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/hardikOG/DSA/tree/master/0867-transpose-matrix) |
+| [2906-construct-product-matrix](https://github.com/hardikOG/DSA/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
 | ------- |
