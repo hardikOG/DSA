@@ -6,4 +6,4 @@ class Solution(object):
         :rtype: bool
         """
         from collections import Counter
-        return Counter(s)==Counter(t)
+        return Counter(s) == Counter(t)
