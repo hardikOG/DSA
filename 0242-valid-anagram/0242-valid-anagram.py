@@ -5,5 +5,9 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        from collections import Counter
-        return Counter(s) == Counter(t)
+        if len(s) != len(t):
+            return False
+        for i in set(s):
+            if s.count(i) != t.count(i):
+                return False
+        return True
